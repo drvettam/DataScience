@@ -1,3 +1,3 @@
-# Programs in for Data Science
-Program is in Python for Machine Learning 
+# Programs For Data Science
+Programs in Python for Machine Learning 
 Programs in Python for Data Science
